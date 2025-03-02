@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory:Preparing Infrastructure in Azure](https://github.com/imazeenabulele/osTicket-Configuration)
+  - [Active Directory:Preparing Infrastructure in Azure](https://github.com/imazeenabulele/Active_Directory_Preparation_in_Azure)
   - [Active Directory: Deploying Active Directory in Azure](https://github.com/imazeenabulele/OsTicket-lifecycle)
   - [Active Directory: Creating Users, Group Policy and Managing Accounts in Azure](https://github.com/imazeenabulele/OsTicket-lifecycle)
 
