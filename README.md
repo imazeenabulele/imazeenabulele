@@ -5,7 +5,7 @@
 - <b>Active Directory</b>
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/imazeenabulele/Active_Directory_Preparation_in_Azure)
   - [Active Directory: Deploying Active Directory in Azure](https://github.com/imazeenabulele/Active_Directory_Deployment.git)
-  - [Active Directory: Creating Users, Group Policy and Managing Accounts in Azure](https://github.com/imazeenabulele/OsTicket-lifecycle)
+  - [Active Directory: Creating Users, Group Policy and Managing Accounts in Azure](https://github.com/imazeenabulele/Active_Directory_Users_Group_Policies__Managing_Accounts.git)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/imazeenabulele/osTicket-Configuration)
